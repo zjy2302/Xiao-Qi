@@ -1,10 +1,10 @@
 {
-  "type": "none",
+  "type": "giscus",
   "giscus": {
-    "repo": "",
-    "repoId": "",
-    "category": "",
-    "categoryId": "",
+    "repo": "zjy2302/Xiao-Qi",
+    "repoId": "R_kgDOUQ5Eaw",
+    "category": "Announcements",
+    "categoryId": "DIC_kwDOUQ5Ea84DJ5aL",
     "mapping": "pathname",
     "strict": "0",
     "reactionsEnabled": "1",
