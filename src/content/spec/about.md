@@ -1,27 +1,35 @@
-# 关于我 / About Me
+# 关于我
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+我是 **小祺**，这里是我的小窝。
 
-## 🛠️ 关于本站
+业余时间基本都在 ACGN 里泡着，看看番、听听歌、偶尔写点东西。起这个站也没什么宏大目标，就是想有个地方把零零碎碎的想法放一放。
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+## 这里会有什么
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+- 日常随笔：想到什么写什么，不求深度
+- 追番、听歌的碎碎念
+- 偶尔折腾一下网站本身，然后写篇记录
 
+## 关于这个站
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+站名「兔兔の小窝」，副标题是"你醒了，你刚刚好像做噩梦了"——一句我很喜欢的话。
 
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
+技术上是用 **Astro** 搭的，套了 [Firefly](https://github.com/CuteLeaf/Firefly) 主题（基于 [Fuwari](https://github.com/saicaca/fuwari) 二次开发），部署在 Cloudflare Pages 上，改完代码推上去就自动更新。
 
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
+站里现在有的东西：
 
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
+- 文章、动态、项目展示
+- 相册（放一些喜欢的图）
+- 友链和留言板
+- 音乐页，接的是自己的网易云歌单
+- 站内搜索
+- 一个可视化后台，文章、相册、歌单、站点设置都能在网页里改
 
-::github{repo="CuteLeaf/Firefly"}
+## 找我
 
-::github{repo="saicaca/fuwari"}
+- GitHub：[zjy2302](https://github.com/zjy2302)
+- 也可以在[留言板](/guestbook/)随便说点什么
 
 ---
 
-*感谢你的来访！希望在这里能找到对你有用的内容！*
-
+*谢谢你点进来看看。*

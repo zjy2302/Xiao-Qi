@@ -9,6 +9,7 @@ export type GalleryAlbum = {
 	cover?: string; // 手动指定封面（可选，省略则自动取 cover.* 或第一张）
 	password?: string; // 加密密码（非空时启用加密）
 	passwordHint?: string; // 密码提示
+	images?: string[]; // 额外图片（后台添加，与目录扫描结果合并）
 };
 
 // 相册配置

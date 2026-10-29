@@ -1,0 +1,12 @@
+{
+  "title": "",
+  "content": "欢迎来到兔兔の小窝，随便坐坐，别客气。",
+  "type": "info",
+  "closable": true,
+  "link": {
+    "enable": true,
+    "text": "关于我",
+    "url": "/about/",
+    "external": false
+  }
+}

@@ -54,6 +54,12 @@ export function scanAlbumPhotos(albumId: string): string[] {
  * 获取相册封面图
  * 优先级：手动指定 > cover.* 文件 > 第一张图片
  */
+export function getAlbumPhotos(album: GalleryAlbum): string[] {
+	const configured = (album.images || []).map(withBase);
+	const scanned = scanAlbumPhotos(album.id);
+	return [...new Set([...configured, ...scanned])];
+}
+
 export function getAlbumCover(album: GalleryAlbum, photos: string[]): string {
 	if (album.cover) return withBase(album.cover);
 	const coverFile = photos.find((p) => /\/cover\./i.test(p));
