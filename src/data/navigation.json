@@ -1,12 +1,6 @@
 {
   "customLinks": [
     {
-      "name": "阿拉斯加海湾",
-      "url": "https://zjy1573.me",
-      "external": true,
-      "icon": "material-symbols:home"
-    },
-    {
       "name": "Firefly文档",
       "url": "https://docs-firefly.cuteleaf.cn",
       "external": true,
